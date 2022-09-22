@@ -1,0 +1,7 @@
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\bin\Debug\bob_og_newbob.exe
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\bin\Debug\bob_og_newbob.pdb
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\obj\Debug\bob-og-newbob.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\obj\Debug\bob-og-newbob.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\obj\Debug\bob-og-newbob.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\obj\Debug\bob_og_newbob.exe
+C:\Users\Saltn\RiderProjects\bob-og-newbob\bob-og-newbob\obj\Debug\bob_og_newbob.pdb
